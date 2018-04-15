@@ -1,7 +1,7 @@
 {
   "name": "tasks",
   "version": "0.1.1",
-  "homepage": "https://juancu8.github.io/task-react/",
+  "homepage": "https://juancu8.github.io/task-simply-app/",
   "private": true,
   "dependencies": {
     "react": "^16.3.1",
