@@ -1,0 +1,22 @@
+{
+  "tasks":[
+    {
+      "title": "Task 1",
+      "user": "Pepe",
+      "description": "many things to do!",
+      "priority": "urgent"
+    },
+    {
+      "title": "Task 2",
+      "user": "Pepe",
+      "description": "Learn React",
+      "priority": "moderate"
+    },
+    {
+      "title": "Task 3",
+      "user": "Pepe",
+      "description": "get out to dinner",
+      "priority": "low"
+    }
+  ]
+}
