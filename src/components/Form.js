@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 
-class TodoForm extends Component {
+class Form extends Component {
 
   constructor(){
     super();
     this.state = {
       title: '',
-      responsible: '',
+      user: '',
       description: '',
       priority: 'low'
     };
@@ -83,4 +83,4 @@ class TodoForm extends Component {
 
 }
 
-export default TodoForm;
+export default Form;
